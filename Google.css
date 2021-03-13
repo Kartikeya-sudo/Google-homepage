@@ -1,0 +1,135 @@
+img {
+  position: absolute;
+  top: 80;
+  right: 475;
+}
+
+div {
+  display: inline-block;
+}
+
+#mail {
+  left: 81%;
+  top: 2%;
+  position: relative;
+  font-size: 13;
+}
+
+#images {
+  left: 82%;
+  top: 2%;
+  position: relative;
+  font-size: 13;
+}
+
+form {
+  position: absolute;
+  right: 500;
+  top: 200;
+}
+
+#search {
+  position: absolute;
+  right: 630;
+  top: 260;
+  border: 1px solid #e2e2e2;
+  box-shadow: 0px 3px 2px #e2e2e2;
+  padding: 7px;
+  color: #757575;
+  background: #f2f2f2;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+#lucky {
+  position: absolute;
+  right: 450;
+  top: 260;
+  border: 1px solid #e2e2e2;
+  box-shadow: 0px 3px 2px #e2e2e2;
+  padding: 7px;
+  font-weight: bold;
+  color: #757575;
+  background: #f2f2f2;
+  font-size: 13px;
+}
+
+#submit {
+    position: relative;
+    left: 175px;
+    height: 30px;
+    width: 600px;
+    margin-bottom: 25px;
+    font-size: 13px;
+    padding: 5px 15px;
+    border: 1px solid #e2e2e2;
+    box-shadow: 0px 3px 2px #e2e2e2;
+}
+
+#sign {
+  left: 83%;
+  top: 2%;
+  position: relative;
+  background: #5080f3;
+  font-weight: bold;
+  padding: 8px 12px;
+  margin: 0 30px 0 10px;
+  font-size: 13px;
+}
+
+.white {
+  color: white;
+}
+
+.black {
+  color: black
+}
+
+a {
+  text-decoration: none;
+}
+
+#advertising {
+  position: absolute;
+  font-size: 12px;
+  bottom: 2%;
+  left: 2%;
+  font-weight: bold;
+}
+
+#business {
+  position: absolute;
+  font-size: 12px;
+  bottom: 2%;
+  left: 9%;
+  font-weight: bold;
+}
+
+#privacy {
+  position: absolute;
+  font-size: 12px;
+  bottom: 2%;
+  right: 13%;
+  font-weight: bold;
+}
+
+#terms {
+  position: absolute;
+  font-size: 12px;
+  bottom: 2%;
+  right: 8%;
+  font-weight: bold;
+}
+
+
+#settings {
+  position: absolute;
+  font-size: 12px;
+  bottom: 2%;
+  right: 2%;
+  font-weight: bold;
+}
+
+.grey {
+  color: #757575
+}
